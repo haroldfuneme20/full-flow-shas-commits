@@ -4,5 +4,4 @@ func main() {
 	print("REBASE TEST")
 	print("REBASE TEST v2")
 	print("REBASE TEST v3")
-	print("REBASE TEST v4")
 }
